@@ -1,9 +1,20 @@
-## Julia Reynolds
+## Julia Reynolds (She/Her)
 
 B. Music Education & B. Music Composition, University of Idaho 2023\
-Student at Eastern Washington University studying Computer Science and Design.
+Student at Eastern Washington University studying Computer Science and Design
 
-I don't have any projects yet, but I will update this profile as I create more pojects.
+## UI/UX Design
+
+### Static Designs
+[Smart Mirror](https://www.figma.com/design/lvaw0nRA4z2nz4nSfPy2p3/UX-1-Project--1--Smart-Mirror-UI?node-id=1-5&t=WflRmZcUuI1tIbaN-1)\
+[Wikipedia Page Redesign](https://www.figma.com/design/KpA69UaaW7Zj7rNXgduAyM/Daily-UI-Challenge-Figma-File?node-id=189-57&t=HgPmaLXo0VFnFWzA-1)\
+[Meet the Staff Mobile Page](https://www.figma.com/design/KpA69UaaW7Zj7rNXgduAyM/Daily-UI-Challenge-Figma-File?node-id=336-2&t=HgPmaLXo0VFnFWzA-1)\
+[Crowdfunding Campaign Page](https://www.figma.com/design/KpA69UaaW7Zj7rNXgduAyM/Daily-UI-Challenge-Figma-File?node-id=372-561&t=HgPmaLXo0VFnFWzA-1)
+
+### Interactive Designs
+[Library Checkout Kiosk](https://www.figma.com/design/sbrNi0I3w7N4Do1AzSuTn9/UX-1-Project--3--Library-Checkout--Julia-Reynolds-?node-id=4002-199&t=m7UQeFBGM1G0zfmk-1)\
+[D&D Monster Attack Tracker](https://www.figma.com/design/wIHTcS4UJ3MFLxDjs1oSIW/UX-1-Project--5--Choose-Your-Own--Julia-Reynolds-?node-id=5-6&t=VVdQhv1UtBwBdGeq-1)\
+[Smartwatch Virtual Pet](https://www.figma.com/design/F9X9ZV4XGpdsVanNvaWqzG/UX-1-Project--4--Virtual-Pet--Julia-Reynolds-?node-id=6-49&t=2aFziQLVOYzywOcZ-1)
 
 ## Hobbies
 
@@ -18,20 +29,5 @@ I don't have any projects yet, but I will update this profile as I create more p
 
 ## Socials
 
-- [LinkedIn](https://www.linkedin.com/in/julia-reynolds-931646187/)
-- [Indeed](https://profile.indeed.com/p/juliar-c0t8hrt)
-
-<!--
-**reynoldsjulia789-byte/reynoldsjulia789-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/julia-reynolds-931646187/)\
+[Indeed](https://profile.indeed.com/p/juliar-c0t8hrt)
