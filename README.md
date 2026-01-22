@@ -24,7 +24,7 @@ Programming projects coming soon.
 Currently learning Java, JavaScript, HTML, CSS, and SQL
 
 ## Google Sheets Projects
-[EWU Class Schedule Creator]()\
+[EWU Class Schedule Creator](https://docs.google.com/spreadsheets/d/13M5Vg8etlN9cGDce29YWcj1HxUDgJSbs_iiDHwCxZzw/edit?usp=sharing)\
 [Budgeting Template]()
 
 ## Hobbies
