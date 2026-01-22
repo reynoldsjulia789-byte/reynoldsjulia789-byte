@@ -1,4 +1,4 @@
-## Julia Reynolds (She/Her)
+# Julia Reynolds (She/Her)
 
 B. Music Education & B. Music Composition, University of Idaho 2023\
 Student at Eastern Washington University studying Computer Science and Design
@@ -15,6 +15,17 @@ Student at Eastern Washington University studying Computer Science and Design
 [Library Checkout Kiosk](https://www.figma.com/design/sbrNi0I3w7N4Do1AzSuTn9/UX-1-Project--3--Library-Checkout--Julia-Reynolds-?node-id=4002-199&t=m7UQeFBGM1G0zfmk-1)\
 [D&D Monster Attack Tracker](https://www.figma.com/design/wIHTcS4UJ3MFLxDjs1oSIW/UX-1-Project--5--Choose-Your-Own--Julia-Reynolds-?node-id=5-6&t=VVdQhv1UtBwBdGeq-1)\
 [Smartwatch Virtual Pet](https://www.figma.com/design/F9X9ZV4XGpdsVanNvaWqzG/UX-1-Project--4--Virtual-Pet--Julia-Reynolds-?node-id=6-49&t=2aFziQLVOYzywOcZ-1)
+
+## CS
+
+I will add some programming projects here soon.
+
+### Languages
+Currently learning Java, JavaScript, HTML, CSS, and SQL
+
+## Google Sheets Projects
+[EWU Class Schedule Creator]()\
+[Budgeting Template]()
 
 ## Hobbies
 
