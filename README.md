@@ -36,7 +36,9 @@ Currently learning Java, JavaScript, HTML, CSS, and SQL
 :video_game: Video Games\
 :game_die: Board Games\
 :clubs: Card Games\
-:sewing_needle: Crochet
+:sewing_needle: Crochet\
+:surfer: Paddle Boarding\
+:tennis: Tennis
 
 ## Socials
 
