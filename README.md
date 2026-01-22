@@ -18,7 +18,7 @@ Student at Eastern Washington University studying Computer Science and Design
 
 ## CS
 
-I will add some programming projects here soon.
+Programming projects coming soon.
 
 ### Languages
 Currently learning Java, JavaScript, HTML, CSS, and SQL
