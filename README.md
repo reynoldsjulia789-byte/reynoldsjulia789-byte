@@ -18,7 +18,11 @@ Student at Eastern Washington University studying Computer Science and Design
 
 ## CS
 
-Programming projects coming soon.
+Checkout some of the pinned projects below!
+
+I also participated in a game jam at the end of January 2026, where I drew and animated the player character and designed and built a level.\
+[This is a link to the GitHub repo for the jam.](https://github.com/nheadrick/RatJam2026)\
+[This is a link to the game on Global Game Jam.](https://globalgamejam.org/games/2026/rat-jam-9)
 
 ### Languages
 Currently learning Java, JavaScript, HTML, CSS, and SQL
