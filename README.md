@@ -16,7 +16,7 @@ Student at Eastern Washington University studying Computer Science and Design
 [D&D Monster Attack Tracker](https://www.figma.com/design/wIHTcS4UJ3MFLxDjs1oSIW/UX-1-Project--5--Choose-Your-Own--Julia-Reynolds-?node-id=5-6&t=VVdQhv1UtBwBdGeq-1)\
 [Smartwatch Virtual Pet](https://www.figma.com/design/F9X9ZV4XGpdsVanNvaWqzG/UX-1-Project--4--Virtual-Pet--Julia-Reynolds-?node-id=6-49&t=2aFziQLVOYzywOcZ-1)
 
-## CS
+## Computer Science
 
 Checkout some of the pinned projects below!
 
