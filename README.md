@@ -43,8 +43,3 @@ Currently learning Java, JavaScript, HTML, CSS, and SQL
 :sewing_needle: Crochet\
 :surfer: Paddle Boarding\
 :tennis: Tennis
-
-## Socials
-
-[LinkedIn](https://www.linkedin.com/in/julia-reynolds-931646187/)\
-[Indeed](https://profile.indeed.com/p/juliar-c0t8hrt)
