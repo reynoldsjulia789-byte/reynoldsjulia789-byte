@@ -1,7 +1,8 @@
 # Julia Reynolds (She/Her)
 
 B. Music Education & B. Music Composition, University of Idaho 2023\
-Student at Eastern Washington University studying Computer Science and Design
+Student at Eastern Washington University studying Computer Science and Design\
+[Check out my website!](https://reynoldsjulia789.github.io)
 
 ## UI/UX Design
 
