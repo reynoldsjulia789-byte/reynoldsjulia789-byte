@@ -26,7 +26,7 @@ I also participated in a game jam at the end of January 2026, where I drew and a
 [This is a link to the game on Global Game Jam.](https://globalgamejam.org/games/2026/rat-jam-9)
 
 ### Languages
-Currently learning Java, JavaScript, HTML, CSS, and SQL
+Currently learning C#, Java, JavaScript, HTML, CSS, and SQL
 
 ## Google Sheets Projects
 [EWU Class Schedule Creator](https://docs.google.com/spreadsheets/d/13M5Vg8etlN9cGDce29YWcj1HxUDgJSbs_iiDHwCxZzw/edit?usp=sharing)\
